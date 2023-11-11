@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Self</string>
+    <string name="title_text">Self Journal Gratitude</string>
+    <string name="gratefultext">What are You grateful for today</string>
+    <string name="getstartedtext">GET STARTED</string>
+    <string name="email_hint">Email</string>
+    <string name="password_hint">Password</string>
+    <string name="login_text">LOGIN</string>
+    <string name="or_text">Or</string>
+    <string name="create_text">CREATE ACCOUNT</string>
+    <string name="username_hint">Username</string>
+    <string name="menu_title">Add Thoughts</string>
+</resources>

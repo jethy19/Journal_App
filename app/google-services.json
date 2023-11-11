@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838583337670",
+    "project_id": "self-dce48",
+    "storage_bucket": "self-dce48.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838583337670:android:bf4e8f27d6622051d38dc7",
+        "android_client_info": {
+          "package_name": "com.example.self"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAlWF5TVk5KhKNKVE5UsD7FxBUJXMhX-CQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
